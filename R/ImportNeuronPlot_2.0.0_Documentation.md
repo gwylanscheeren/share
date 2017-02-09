@@ -124,6 +124,6 @@ Install **ImportNeuronPlot** using **P**rivate (repository) **A**uthorization **
 
 `library(devtools)`
 
-`PAT <- "0d07916f363756d435c4c219b58f237e66687366"`
+`PAT <- "insert valid authorization token here"`
 
 `install_github("gwylanscheeren/ImportNeuronPlot", auth_token = PAT)`
