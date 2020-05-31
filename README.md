@@ -1,6 +1,3 @@
-# share
-Repository for making files openly accessible to the public.
-
 For using the Cura post processing script I adapted:
 
 Download using this link:
