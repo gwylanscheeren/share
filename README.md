@@ -4,6 +4,7 @@ Repository for making files openly accessible to the public.
 For using the Cura post processing script I adapted:
 
 Download using this link:
+https://raw.githubusercontent.com/gwylanscheeren/share/master/DisplayLayerAndTimeOnLCD.py
 
 And copy to the following location:
 
