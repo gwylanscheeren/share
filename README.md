@@ -10,4 +10,4 @@ And copy to the following location:
 
 C:\Program Files\Ultimaker Cura [X.X]\plugins\PostProcessingPlugin\scripts
 
-Then, restart Cura and select Extensions -> Post Processing -> Modify G-code. Next, select “OuterWallFan” from the "Add a Script" drop down.
+Then, restart Cura and select Extensions -> Post Processing -> Modify G-code. Next, select “Display Layer And ETA On LCD” from the "Add a Script" drop down.
